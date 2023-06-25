@@ -3,13 +3,14 @@
 ## Table of Contents
 - [Description](#description)
 - [YouTube Link](#youtube-link)
-- [GitHub Repository](#github-repository)
+- [GitHub Repository](#github-respository)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Helpful Information](#helpful-information)
+- [Test Instructions](#test-instructions)
 
 ## Description
 
